@@ -2,7 +2,8 @@
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=HelloWorld-Welcome&layout=compact&langs_count=8&count_private=true&theme=dark)|![](https://github-readme-stats.vercel.app/api?username=HelloWorld-Welcome&hide=stars,contribs&count_private=true)|
+|![](https://github-readme-stats-alpha-eosin-43.vercel.app/api/top-langs/?username=HelloWorld-Welcome&layout=compact&langs_count=8&theme=dark)|![](https://github-readme-stats-alpha-eosin-43.vercel.app/api?username=HelloWorld-Welcome&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
+
 
 <!--
 **HelloWorld-Welcome/HelloWorld-Welcome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
